@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+
+
+* Languages : Java, Go, Python, JavaScript, TypeScript
+* Cloud & DevOps: AWS, GCP, GitHub Actions, CI/CD, Terraform  
+* Specialties: AI-assisted development, automation workflows, pre-sales solution design
+
+
+
+
 <!--
 **asterisk-naran/asterisk-naran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
